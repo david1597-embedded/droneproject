@@ -1,0 +1,2 @@
+../App/common/def.c:52:8:set_print_uart	16	static
+../App/common/def.c:57:7:__io_putchar	16	static

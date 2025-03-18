@@ -1,0 +1,5 @@
+../App/hw/CONTROLLER.c:11:6:bluetooth_init	8	static
+../App/hw/CONTROLLER.c:24:6:bluetooth_receive	16	static
+../App/hw/CONTROLLER.c:36:6:bluetooth_trasmint	16	static
+../App/hw/CONTROLLER.c:42:6:HAL_UART_RxCpltCallback	16	static
+../App/hw/CONTROLLER.c:77:6:print_usart6_status	72	static
